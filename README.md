@@ -1,3 +1,12 @@
+# README
+
+- Client for full stack practice. 2021-10-29.
+- TODO App
+
+---
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
